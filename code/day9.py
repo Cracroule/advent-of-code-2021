@@ -1,5 +1,4 @@
 import math
-
 from pyprojroot import here
 data_dir = here("data")
 
